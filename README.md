@@ -1,4 +1,3 @@
-
 # Cesgransec
 Desenvolvi um sistema que realiza criptografia de arquivos para um banco de dados onde somente o próprio usuário pode realizar consulta das informações
 
